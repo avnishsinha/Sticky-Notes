@@ -54,12 +54,6 @@ To set up and run Sticky Notes locally:
 
 ---
 
-## 🌐 Live Demo
-
-Experience Sticky Notes online here: [Sticky Notes Live](#) (Update this with your live deployment link.)
-
----
-
 ## 🌟 Future Enhancements
 
 - Add support for different themes (light/dark mode).
